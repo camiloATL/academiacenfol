@@ -1,0 +1,20 @@
+[
+  {
+    "email": "admin@cenfol.com",
+    "password": "123456",
+    "role": "admin",
+    "token": "admin-token"
+  },
+  {
+    "email": "user@cenfol.com",
+    "password": "abc123",
+    "role": "user",
+    "token": "user-token"
+  },
+  {
+    "email": "lorenavanegas@gmail.com",
+    "password": "lorena123",
+    "role": "admin",
+    "token": "lorena-token"
+  }
+]
